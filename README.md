@@ -16,10 +16,11 @@
 
 
 ## 📊 Current GitHub stats and streaks:
-![](https://github-readme-stats.vercel.app/api?username=alexjcm&theme=dark&hide_border=true&include_all_commits=true&count_private=false) &nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=alexjcm&theme=dark&hide_border=true)<br/>
-
-
+<p align="left">
+<img alt="github contribution grid snake anim" src="https://github-readme-stats.vercel.app/api?username=alexjcm&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="express" height="165"/>
+<img alt="github contribution grid snake anim" src="https://github-readme-streak-stats.herokuapp.com/?user=alexjcm&theme=dark&hide_border=true" alt="express" height="165"/>
+</p>
+  
 <!-- <p align="center">
 <img src="https://github.com/alexjcm/alexjcm/blob/output/github-contribution-grid-snake.svg">
 </p> -->
