@@ -17,7 +17,7 @@
 
 ## 📊 Current GitHub stats and streaks:
 <p align="left">
-<img alt="github contribution grid snake anim" src="https://github-readme-stats.vercel.app/api?username=alexjcm&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="express" height="165"/>
+<img alt="github contribution grid snake anim" src="https://github-readme-stats.vercel.app/api?username=alexjcm&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="express" height="165"/> &nbsp;
 <img alt="github contribution grid snake anim" src="https://github-readme-streak-stats.herokuapp.com/?user=alexjcm&theme=dark&hide_border=true" alt="express" height="165"/>
 </p>
   
