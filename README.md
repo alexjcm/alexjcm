@@ -23,4 +23,9 @@
 ## 🔥 GitHub Streaks:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alexjcm&theme=dark&hide_border=true)<br/>
 
+---
+<p align="center">
+<img src="https://github.com/alexjcm/alexjcm/blob/output/github-contribution-grid-snake.svg">
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
