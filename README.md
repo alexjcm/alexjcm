@@ -24,8 +24,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alexjcm&theme=dark&hide_border=true)<br/>
 
 ---
-<p align="center">
+<!-- <p align="center">
 <img src="https://github.com/alexjcm/alexjcm/blob/output/github-contribution-grid-snake.svg">
-</p>
+</p> -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexjcm/alexjcm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexjcm/alexjcm/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alexjcm/alexjcm/output/github-contribution-grid-snake.svg">
+</picture>
