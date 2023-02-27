@@ -16,7 +16,7 @@
 
 
 ## 📊 Current GitHub stats and streaks:
-![](https://github-readme-stats.vercel.app/api?username=alexjcm&theme=dark&hide_border=true&include_all_commits=true&count_private=false)  &nbsp;&nbsp;
+![](https://github-readme-stats.vercel.app/api?username=alexjcm&theme=dark&hide_border=true&include_all_commits=true&count_private=false) &nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alexjcm&theme=dark&hide_border=true)<br/>
 
 
