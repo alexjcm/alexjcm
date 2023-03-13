@@ -17,13 +17,9 @@
 
 ### 📊 Current GitHub stats:
 <p align="left">
-<img alt="github contribution grid snake anim" src="https://github-readme-stats.vercel.app/api?username=alexjcm&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="express" height="165"/> &nbsp;
-<img alt="github contribution grid snake anim" src="https://github-readme-streak-stats.herokuapp.com/?user=alexjcm&theme=dark&hide_border=true" alt="express" height="165"/>
+<img alt="github-readme-stats.vercel.app" src="https://github-readme-stats.vercel.app/api?username=alexjcm&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="express" height="165"/> &nbsp;
+<img alt="github-readme-streak-stats.herokuapp.com" src="https://github-readme-streak-stats.herokuapp.com/?user=alexjcm&theme=dark&hide_border=true" alt="express" height="165"/>
 </p>
-  
-<!-- <p align="center">
-<img src="https://github.com/alexjcm/alexjcm/blob/output/github-contribution-grid-snake.svg">
-</p> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexjcm/alexjcm/output/github-contribution-grid-snake-dark.svg">
