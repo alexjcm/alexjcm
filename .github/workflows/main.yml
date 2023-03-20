@@ -10,9 +10,9 @@ on:
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
 
-#  push:
-#    branches:
-#    - main
+  push:
+    branches:
+    - main
 
 
 # The sequence of runs in this workflow:
@@ -48,7 +48,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3
         with:
           # the output branch we mentioned above
-          target_branch: output
+          target_branch: gh-pages
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
