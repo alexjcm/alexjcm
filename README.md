@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Angular and Flutter
 
-<a href="https://alexjcm.me" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://alexjcm.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <br>
 
 ### 💻 Languages and tools:
