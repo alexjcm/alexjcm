@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Next.js and MongoDB
-
-### 💻 Languages and tools:
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a>
@@ -14,6 +11,13 @@
 <a href="https://angular.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
+
+### 🚀 Current projects
+
+- [JDeploy CLI](https://github.com/alexjcm/jdeploy-cli) - CLI tool to deploy artifacts to **JBoss** or **Wildfly**.
+- [Agent skillset](https://github.com/alexjcm/agent-skillset) - CLI for managing AI agent skills.
+- [DB2 MCP server](https://github.com/alexjcm/db2-ibmi-mcp-readonly) - Connects AI assistants to IBM DB2 for read‑only querying and metadata inspection.
+- [Sonar MCP server](https://github.com/alexjcm/sonar-mcp-server) - MCP server for integrating with SonarQube Server REST API.
 
 
 ### 📊 Current GitHub stats:
