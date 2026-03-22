@@ -14,7 +14,7 @@
 
 ### 🚀 Current projects
 
-- [JDeploy CLI](https://github.com/alexjcm/jdeploy-cli) - CLI tool to deploy artifacts to **JBoss** or **Wildfly**.
+- [JBoss deploy CLI](https://github.com/alexjcm/jbdeploy) - CLI tool to deploy artifacts to **JBoss** or **Wildfly**.
 - [Agent skillset](https://github.com/alexjcm/agent-skillset) - CLI for managing AI agent skills.
 - [DB2 MCP server](https://github.com/alexjcm/db2-ibmi-mcp-readonly) - Connects AI assistants to IBM DB2 for read‑only querying and metadata inspection.
 - [Sonar MCP server](https://github.com/alexjcm/sonar-mcp-server) - MCP server for integrating with SonarQube Server REST API.
