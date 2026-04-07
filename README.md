@@ -24,6 +24,10 @@
 
 ### 📊 Current GitHub stats:
 
+<p align="left">
+<img alt="github-readme-streak-stats.herokuapp.com" src="https://github-readme-streak-stats.herokuapp.com/?user=alexjcm&theme=dark&hide_border=true" alt="express" height="165"/>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexjcm/alexjcm/gh-pages/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexjcm/alexjcm/gh-pages/github-contribution-grid-snake.svg">
