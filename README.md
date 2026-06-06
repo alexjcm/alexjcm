@@ -15,7 +15,7 @@
 - [tag-sphere](https://github.com/alexjcm/tag-sphere) - A lightweight, dependency-free 3D rotating tag sphere.
 - [JBoss deploy CLI](https://github.com/alexjcm/jbdeploy) - CLI tool to deploy artifacts to **JBoss** or **Wildfly**.
 - [Project cleaner](https://github.com/alexjcm/projclean) - Interactive TUI to clean **Gradle/Maven** build folders and reclaim disk space across your projects.
-- [DB2 MCP server](https://github.com/alexjcm/db2-ibmi-mcp-readonly) - Connects AI assistants to IBM DB2 for read‑only querying and metadata inspection.
+- [DB2 and Single Store MCP server](https://github.com/alexjcm/multi-db-mcp-readonly) - Connects AI assistants to IBM DB2 / Single Store for read‑only querying and metadata inspection.
 - [Sonar MCP server](https://github.com/alexjcm/sonar-mcp-server) - MCP server for integrating with SonarQube Server REST API.
 
 
